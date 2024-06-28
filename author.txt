@@ -1,0 +1,2 @@
+Andrey Rukin
+Python 3.10
